@@ -15,3 +15,7 @@
 ### Adam Kenzo
 
 ### Instagram: [https://www.instagram.com/adamkenz0/]
+
+### Site: [https://mochila-de-viagem-tau-one.vercel.app/]
+
+### Certificado: [https://cursos.alura.com.br/certificate/adamkisa/javascript-web-armazenando-dados-navegador]
